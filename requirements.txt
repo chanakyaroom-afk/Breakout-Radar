@@ -1,0 +1,6 @@
+nsepy
+nsetools
+pandas
+flask
+flask-cors
+gunicorn
